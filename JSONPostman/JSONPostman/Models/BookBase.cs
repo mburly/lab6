@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 namespace JSONPostman.Models
 {
-    public class VolumeBase
+    public class BookBase
     {
-        public Volume Volume { get; set; }
+        public Book Book { get; set; }
 
-        public VolumeBase(Volume volume)
+        public BookBase(Book book)
         {
-            Volume = volume;
+            Book = book;
         }
     }
 }
