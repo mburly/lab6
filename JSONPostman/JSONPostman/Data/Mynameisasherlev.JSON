@@ -1,0 +1,81 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "1jgbhghk5QUC",
+      "etag": "oaK4b3+Tpqc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1jgbhghk5QUC",
+      "volumeInfo": {
+        "title": "My Name is Asher Lev",
+        "authors": [
+          "Chaim Potok"
+        ],
+        "publisher": "Anchor",
+        "publishedDate": "2003",
+        "description": "The novelist records the anguish and triumphs of a young painter as he emerges into the great world of art and rejects all else.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1400031044"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781400031047"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 369,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 41,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1jgbhghk5QUC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1jgbhghk5QUC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=1jgbhghk5QUC&dq=isbn:1400031044&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=1jgbhghk5QUC&dq=isbn:1400031044&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/My_Name_is_Asher_Lev.html?hl=&id=1jgbhghk5QUC"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1jgbhghk5QUC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The novelist records the anguish and triumphs of a young painter as he emerges into the great world of art and rejects all else."
+      }
+    }
+  ]
+}

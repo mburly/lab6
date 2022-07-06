@@ -1,0 +1,82 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "04v-yQEACAAJ",
+      "etag": "jiHlN2a9cmc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/04v-yQEACAAJ",
+      "volumeInfo": {
+        "title": "Midnight in Chernobyl",
+        "subtitle": "The Untold Story of the World's Greatest Nuclear Disaster",
+        "authors": [
+          "Adam Higginbotham"
+        ],
+        "publisher": "Simon & Schuster",
+        "publishedDate": "2019-02-12",
+        "description": "A New York Times Best Book of the Year A Time Best Book of the Year A Kirkus Reviews Best Nonfiction Book of the Year 2020 Andrew Carnegie Medals for Excellence Finalist One of NPR’s Best Books of 2019 Journalist Adam Higginbotham’s definitive, years-in-the-making account of the Chernobyl nuclear power plant disaster—and a powerful investigation into how propaganda, secrecy, and myth have obscured the true story of one of the twentieth century’s greatest disasters. Early in the morning of April 26, 1986, Reactor Number Four of the Chernobyl Atomic Energy Station exploded, triggering history’s worst nuclear disaster. In the thirty years since then, Chernobyl has become lodged in the collective nightmares of the world: shorthand for the spectral horrors of radiation poisoning, for a dangerous technology slipping its leash, for ecological fragility, and for what can happen when a dishonest and careless state endangers its citizens and the entire world. But the real story of the accident, clouded from the beginning by secrecy, propaganda, and misinformation, has long remained in dispute. Drawing on hundreds of hours of interviews conducted over the course of more than ten years, as well as letters, unpublished memoirs, and documents from recently-declassified archives, Adam Higginbotham has written a harrowing and compelling narrative which brings the disaster to life through the eyes of the men and women who witnessed it firsthand. The result is a masterful nonfiction thriller, and the definitive account of an event that changed history: a story that is more complex, more human, and more terrifying than the Soviet myth. Midnight in Chernobyl is an indelible portrait of one of the great disasters of the twentieth century, of human resilience and ingenuity, and the lessons learned when mankind seeks to bend the natural world to his will—lessons which, in the face of climate change and other threats, remain not just vital but necessary.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1501134612"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781501134616"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 560,
+        "printType": "BOOK",
+        "categories": [
+          "History"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 31,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=04v-yQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=04v-yQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=04v-yQEACAAJ&dq=isbn:1501134612&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=04v-yQEACAAJ&dq=isbn:1501134612&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Midnight_in_Chernobyl.html?hl=&id=04v-yQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "US",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "US",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=04v-yQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "A New York Times Best Book of the Year A Time Best Book of the Year A Kirkus Reviews Best Nonfiction Book of the Year 2020 Andrew Carnegie Medals for Excellence Winner One of NPR’s Best Books of 2019 Journalist Adam Higginbotham’s ..."
+      }
+    }
+  ]
+}

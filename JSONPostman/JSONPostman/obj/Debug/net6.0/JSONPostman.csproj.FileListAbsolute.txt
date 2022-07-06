@@ -1,0 +1,15 @@
+C:\Users\Michael\Desktop\lab6\JSONPostman\JSONPostman\bin\Debug\net6.0\JSONPostman.exe
+C:\Users\Michael\Desktop\lab6\JSONPostman\JSONPostman\bin\Debug\net6.0\JSONPostman.deps.json
+C:\Users\Michael\Desktop\lab6\JSONPostman\JSONPostman\bin\Debug\net6.0\JSONPostman.runtimeconfig.json
+C:\Users\Michael\Desktop\lab6\JSONPostman\JSONPostman\bin\Debug\net6.0\JSONPostman.dll
+C:\Users\Michael\Desktop\lab6\JSONPostman\JSONPostman\bin\Debug\net6.0\JSONPostman.pdb
+C:\Users\Michael\Desktop\lab6\JSONPostman\JSONPostman\obj\Debug\net6.0\JSONPostman.csproj.AssemblyReference.cache
+C:\Users\Michael\Desktop\lab6\JSONPostman\JSONPostman\obj\Debug\net6.0\JSONPostman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael\Desktop\lab6\JSONPostman\JSONPostman\obj\Debug\net6.0\JSONPostman.AssemblyInfoInputs.cache
+C:\Users\Michael\Desktop\lab6\JSONPostman\JSONPostman\obj\Debug\net6.0\JSONPostman.AssemblyInfo.cs
+C:\Users\Michael\Desktop\lab6\JSONPostman\JSONPostman\obj\Debug\net6.0\JSONPostman.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Desktop\lab6\JSONPostman\JSONPostman\obj\Debug\net6.0\JSONPostman.dll
+C:\Users\Michael\Desktop\lab6\JSONPostman\JSONPostman\obj\Debug\net6.0\refint\JSONPostman.dll
+C:\Users\Michael\Desktop\lab6\JSONPostman\JSONPostman\obj\Debug\net6.0\JSONPostman.pdb
+C:\Users\Michael\Desktop\lab6\JSONPostman\JSONPostman\obj\Debug\net6.0\JSONPostman.genruntimeconfig.cache
+C:\Users\Michael\Desktop\lab6\JSONPostman\JSONPostman\obj\Debug\net6.0\ref\JSONPostman.dll
