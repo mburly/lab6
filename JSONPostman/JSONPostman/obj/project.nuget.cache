@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "p9sFuzozwAXJK5AUg1aY8ofbekY7iiGAbSEayFjHUQVhM8iJ2YgWJQ2S7AX1K5rVO4g0i4Zyu3M++Xb3ETaCVA==",
+  "dgSpecHash": "2Z93onPOaaSPfiEs+uYzb2WY8wPR7mOaBed3vKyPKBFqHjvIWCuzGUKlSfx2vrWeZ7Ykh+KqONVAEeaF8k9hew==",
   "success": true,
   "projectFilePath": "C:\\Users\\Michael\\Desktop\\lab6\\JSONPostman\\JSONPostman\\JSONPostman.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Michael\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
